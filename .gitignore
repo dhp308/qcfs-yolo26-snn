@@ -1,0 +1,6 @@
+venv/
+ultralytics/
+weights/
+datasets/
+runs/
+*.pt
